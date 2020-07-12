@@ -1,5 +1,4 @@
 C:\Users\Ali\Desktop\ASPNET-CORE-Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\Users\Ali\Desktop\ASPNET-CORE-Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.json
 C:\Users\Ali\Desktop\ASPNET-CORE-Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 C:\Users\Ali\Desktop\ASPNET-CORE-Angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.exe
 C:\Users\Ali\Desktop\ASPNET-CORE-Angular\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csprojAssemblyReference.cache
